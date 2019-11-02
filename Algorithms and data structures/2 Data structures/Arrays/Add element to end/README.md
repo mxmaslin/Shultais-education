@@ -30,3 +30,5 @@ OverflowError
 ```
 
 [Класс Array](initial.py)
+
+**[Решение](add_element_to_end.py)**.

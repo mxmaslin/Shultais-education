@@ -16,3 +16,5 @@ print(lst.length())
 ```
 
 Используйте [файл с классами Node и List](initial.py) как основу для вашего кода.
+
+**[Решение](linked_list_length.py)**.

@@ -21,3 +21,5 @@ print(lst.__str__())
 ```
 
 Используйте [файл с классами Node и List](initial.py) как основу для вашего кода.
+
+**[Решение](insert_in_middle.py)**.

@@ -18,3 +18,5 @@ print(lst.__str__())
 ```
 
 Используйте [файл с классами Node и List](initial.py) как основу для вашего кода.
+
+**[Решение](add_to_beginning_of_doubly.py)**.

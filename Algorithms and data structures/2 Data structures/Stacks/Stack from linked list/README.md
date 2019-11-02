@@ -24,3 +24,5 @@ None
 ```
 
 Используйте [файл с классами Node и Stack](initial.py) как основу для вашего кода.
+
+**[Решение](stack_from_linked_list.py)**.

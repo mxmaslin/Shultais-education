@@ -21,3 +21,5 @@ print(lst.__str__())
 ```
 
 Используйте [файл с классами Node и List](#initial.md) как основу для вашего кода.
+
+**[Решение](remove_from_doubly.py)**.

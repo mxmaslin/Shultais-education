@@ -16,3 +16,5 @@ print(lst.__str__())
 ```
 
 Используйте [файл с классами Node и SortedList](initial.py) как основу для вашего кода.
+
+**[Решение](reverse_sort.py)**.

@@ -17,3 +17,5 @@ print(lst)
 ```
 
 Используйте [файл с классами Node и List](initial.py) как основу для вашего кода.
+
+**[Решение](prepend_element.py)**.

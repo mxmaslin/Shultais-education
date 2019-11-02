@@ -27,3 +27,5 @@ None
 ```
 
 Используйте [файл с классами Node и Stack](initial.py) как основу для вашего кода.
+
+**[Решение](array_based_stack_extended_methods.py)**.

@@ -28,3 +28,5 @@ None
 ```
 
 Используйте [файл с классами Node и Stack](initial.py) как основу для вашего кода.
+
+**[Решение](extended_stack_methods.py)**.

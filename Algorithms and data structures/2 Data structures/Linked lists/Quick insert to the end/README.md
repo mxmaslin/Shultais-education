@@ -16,3 +16,5 @@ print(lst.__str__())
 ```
 
 Используйте [файл с классами Node и List](initial.py) как основу для вашего кода.
+
+**[Решение](quick_insert_to_end.py)**.

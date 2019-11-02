@@ -33,3 +33,5 @@ IndexError
 ```
 
 [Заготовка класса Array](initial.py).
+
+**[Решение](insert_to_middle.py)**.

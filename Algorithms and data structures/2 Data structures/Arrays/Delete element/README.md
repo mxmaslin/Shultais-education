@@ -25,3 +25,5 @@ array.remove(9)
 ```
 
 Используйте [файл с классом Array](initial.py) как основу для вашего кода.
+
+**[Решение](delete_element.py)**.

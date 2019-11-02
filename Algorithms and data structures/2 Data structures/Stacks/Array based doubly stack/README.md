@@ -38,3 +38,5 @@ None
 ```
 
 Используйте [файл с классами Array и Stack](initial.py) как основу для вашего кода.
+
+**[Решение](array_based_doubly_stack.py)**.
